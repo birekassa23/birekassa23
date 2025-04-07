@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # every day at midnight UTC
-  workflow_dispatch: # allows manual run
+  workflow_dispatch: # manual trigger
 
 jobs:
   generate:
@@ -16,6 +16,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "birekassa23"
+          git config --global user.email "birekassa23@users.noreply.github.com"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
