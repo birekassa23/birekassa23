@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🔭 Passionate **Back-End Developer** specializing in building robust APIs, services, and architecture.
 - 💼 Experienced in scalable systems, clean architecture, and enterprise-level backend solutions.
