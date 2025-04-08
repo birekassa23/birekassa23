@@ -73,10 +73,10 @@
   <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6fda44&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:birekassa17828062.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://t.me/your-telegram-username" target="_blank">
+  <a href="https://t.me/@birekassa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.facebook.com/your-facebook-username" target="_blank">
