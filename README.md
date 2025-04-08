@@ -67,21 +67,30 @@
 ### 🌍 Let’s Connect
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/birehanu-kassa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6fda44&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://t.me/your-telegram-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.tiktok.com/@your-tiktok-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ---
-
-<!-- Snake animation section (optional) -->
-<!-- Only works if the GitHub Actions workflow is properly set up in your repo -->
 
 <img src="https://raw.githubusercontent.com/birekassa23/birekassa23/output/github-snake.svg" alt="Snake animation" />
 <!--<img src="https://raw.githubusercontent.com/birekassa23/birekassa23/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark" /> -->
