@@ -84,4 +84,4 @@
 <!-- Only works if the GitHub Actions workflow is properly set up in your repo -->
 
 <img src="https://raw.githubusercontent.com/birekassa23/birekassa23/output/github-snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/birekassa23/birekassa23/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark" />
+<!--<img src="https://raw.githubusercontent.com/birekassa23/birekassa23/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark" /> -->
