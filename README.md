@@ -6,11 +6,11 @@
 
 ### About Me
 
-- 🔭 Passionate **Back-End Developer** specializing in building robust APIs, services, and architecture.
-- 💼 Experienced in scalable systems, clean architecture, and enterprise-level backend solutions.
-- 🛠️ Core technologies: **Node.js**, **NestJS**, **Express**, **TypeScript**, **PostgreSQL**, **MongoDB**, **Docker**.
-- 📱 I also create **mobile apps** using **React Native** and **desktop apps** with **Electron**.
-- 🌍 Based in **Addis Ababa, Ethiopia** and working globally 🌐.
+- Passionate **Back-End Developer** specializing in building robust APIs, services, and architecture.
+- Experienced in scalable systems, clean architecture, and enterprise-level backend solutions.
+- Core technologies: **Node.js**, **NestJS**, **Express**, **TypeScript**, **PostgreSQL**, **MongoDB**, **Docker**.
+- I also create **mobile apps** using **React Native** and **desktop apps** with **Electron**.
+- Based in **Addis Ababa, Ethiopia** and working globally 🌐.
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-### 🌍 Contact me
+### Contact me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/birehanu-kassa" target="_blank">
