@@ -64,7 +64,7 @@
 
 ---
 
-### 🌍 Let’s Connect
+### 🌍 Contact me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/birehanu-kassa" target="_blank">
