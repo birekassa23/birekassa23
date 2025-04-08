@@ -14,7 +14,7 @@
 
 ---
 
-### 🧰 Back-End Tech Stack
+###  Back-End Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 Additional Skills
+###  Additional Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native / React" />
