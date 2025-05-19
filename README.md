@@ -2,7 +2,7 @@
 <h2 align="left">I'm <strong>Birehanu Kassa</strong></h2>
 
 <h3 align="left">
-  🚀 Passionate Software Engineer & Freelance Developer <br/><br/>
+  🚀 Creative Software Engineer & Freelance Developer <br/><br/>
   💡 I turn ideas into fast, modern, and scalable <strong>Web</strong> & <strong>Mobile Applications</strong><br/><br/>
   🛠 Skilled in crafting smooth user experiences with clean and maintainable code.
 </h3>
