@@ -17,7 +17,7 @@
 - Experienced in scalable systems, clean architecture, and enterprise-level backend solutions.
 - Core technologies: **Node.js**, **NestJS**, **Express**, **TypeScript**, **PostgreSQL**, **MongoDB**, **Docker**.
 - I also create **mobile apps** using **React Native** and **desktop apps** with **Electron**.
-- Based in **South-west, Ethiopia | Teppi ** and working globally 🌐.
+- Based in **South-west, Ethiopia | Teppi** and working globally 🌐.
 
 ---
 
