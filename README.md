@@ -1,9 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<h2 align="left">I'm Birehanu Kassa</h2>
+<h2 align="left">I'm <strong>Birehanu Kassa</strong></h2>
+
 <h3 align="left">
-  🚀 Software Engineer & Freelance Developer <br/>
-  💡 Turning ideas into modern, scalable <strong>Web</strong> and <strong>Mobile Apps</strong>
+  🚀 Passionate Software Engineer & Freelance Developer <br/><br/>
+  💡 I turn ideas into fast, modern, and scalable <strong>Web</strong> & <strong>Mobile Applications</strong><br/><br/>
+  🛠 Skilled in crafting smooth user experiences with clean and maintainable code.
 </h3>
+
 
 
 ---
